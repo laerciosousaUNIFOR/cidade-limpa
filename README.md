@@ -52,9 +52,17 @@ Nome: Matheus Araujo
 Função: Representante comunitário  
 Local: Eusébio - CE  
 
-### Problemas identificados:
-- Acúmulo frequente de lixo
-- Falta de comunicação com serviços de coleta
-- Ausência de acompanhamento das solicitações
+### Problemas Identificados:
 
-O sistema foi validado como solução viável para melhoria da comunicação e gestão urbana.
+- Pontos recorrentes de acúmulo de lixo em vias públicas  
+- Deficiência na iluminação pública em determinadas áreas  
+- Presença de buracos de grande dimensão no asfalto  
+- Locais com risco elevado de acidentes urbanos
+
+### Impacto dos Problemas
+
+Esses problemas impactam diretamente a qualidade de vida da população, podendo causar riscos à saúde pública, acidentes e degradação do ambiente urbano.
+
+## Validação da Solução
+
+Com base nas informações coletadas durante a entrevista com o representante comunitário, foi possível validar que a proposta do sistema atende às necessidades da comunidade, sendo considerada uma solução viável para melhorar a comunicação entre moradores e responsáveis, além de contribuir para uma gestão urbana mais eficiente e sustentável.
