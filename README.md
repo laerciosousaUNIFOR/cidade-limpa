@@ -3,16 +3,6 @@
 ## Descrição e Objetivo do Projeto
 O Cidade Limpa é um sistema multiplataforma (web e mobile) desenvolvido para permitir que moradores registrem, acompanhem e colaborem na resolução de problemas urbanos, como acúmulo de lixo, buracos e falhas na iluminação pública. A solução busca melhorar a comunicação entre a comunidade e responsáveis locais, promovendo uma gestão mais eficiente e sustentável.
 
-Links dos Protótipos
-
-Protótipo WEB:
-https://www.figma.com/proto/f5fs42SABEkP5A01wjWSeU/Cidade-Limpa-
-%E2%80%93-Prot%C3%B3tipo-Web-e-Mobile?node-id=0-1
-
-Protótipo MOBILE:
-https://www.figma.com/proto/f5fs42SABEkP5A01wjWSeU/Cidade-Limpa-
-%E2%80%93-Prot%C3%B3tipo-Web-e-Mobile?node-id=4-534
-
 ## Problema
 A falta de canais eficientes para comunicação de problemas urbanos resulta em acúmulo de lixo, degradação ambiental e baixa qualidade de vida nas comunidades.
 
